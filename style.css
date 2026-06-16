@@ -2,19 +2,21 @@ body {
     background: white;
     color: #4a90e2;
     font-family: monospace;
+    font-size: 18px;
     text-align: center;
     padding-top: 100px;
 }
 
 button {
     display: block;
-    margin: 15px auto;
+    margin: 5px auto;
     padding: 10px 20px;
     background: #4a90e2;
     color: white;
     border: 1px solid white;
     cursor: pointer;
     font-family: monospace;
+    font-size: 16px;
 }
 
 button:hover {
